@@ -1,0 +1,23 @@
+.image-round1 {
+    height:50px;
+    width:50px;
+    font-size: 10px;
+    border-radius: 50%;   
+}
+
+.image-round2 {
+    height:100px;
+    width:100px;
+    font-size: 12px;
+    border-radius: 60%;   
+}
+
+.image-round3 {
+    height:200px;
+    width:200px;
+    font-size: 14px;
+    border-radius: 70%;   
+}
+.row {
+    margin:12px;
+}
