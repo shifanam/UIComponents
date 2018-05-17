@@ -1,0 +1,26 @@
+body {
+    background-color: #fff;
+    margin-top: -1%;
+    margin-left: -1%;
+
+}
+.search-bar {
+    border-radius: 2px;
+    display: block;
+    margin-top: 60px;
+    margin-left: 20px;   
+    cursor: pointer; 
+    text-align: center;
+}
+
+input {
+border: 1px solid #000;
+border-radius: 0.3rem;
+font-size: 1.1em;
+padding: 5px;
+}
+
+button {
+    color:gray;
+    height: 38px;
+}

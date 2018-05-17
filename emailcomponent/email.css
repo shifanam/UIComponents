@@ -1,0 +1,10 @@
+.email {
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 20px;  
+}
+
+input {
+    border:1px solid gray;
+    text-align: center;
+}

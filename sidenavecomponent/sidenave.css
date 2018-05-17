@@ -1,0 +1,35 @@
+.sidenave {
+    height: 100%;
+    width: 150px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color:lightcoral;
+    overflow-x: hidden;
+    padding:12px;
+}
+.sidenave ul {
+list-style-type: none;
+}
+.sidenave ul li {
+    padding: 20px 0px 20px 0px;
+    color: #fff;
+    cursor: pointer;
+    }
+
+.sidenave ul a:hover {
+    color:#fff;
+    color: #f1f1f1;  
+}
+
+
+    
+.img {
+    height:70px;
+    width:70px;
+    border-radius: 60%;  
+    float: left; 
+    padding-bottom: 5px;
+    object-fit: cover
+}
